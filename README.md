@@ -1,0 +1,1 @@
+This mini project is made by using html,css and javaScript.The main main reason to make this project is to understand javaScript and how to built logics in javaScript.I made this from youtube but i will modify it on my own. 
